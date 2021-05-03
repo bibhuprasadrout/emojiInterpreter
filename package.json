@@ -12,10 +12,9 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.1"
   },
-  "homepage":"https://github.com/bibhuprasadrout/emojiInterpreter",
-  "scripts": {
-    "pre-deploy":"npm run build",
-    "deploy":"gh-pages -d build",
+  "homepage": "https://github.com/bibhuprasadrout/emojiInterpreter",  "scripts": {
+    "pre-deploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
