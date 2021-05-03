@@ -1,6 +1,6 @@
-import React from 'react';
-import { useState } from "react";
-import heartEmoji from './media/heart-emoji.png';
+import React from 'react'
+import { useState } from "react"
+import heartEmoji from './media/heart-emoji.png'
 import './css/style.css'
 
 
